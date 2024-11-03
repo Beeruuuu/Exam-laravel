@@ -43,6 +43,5 @@ class ResumeSeeder extends Seeder
             'updated_at' => now(),
         ]);
         
-        // You can add more entries if you want more entries.
     }
 }
